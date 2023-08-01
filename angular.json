@@ -30,8 +30,11 @@
               "src/assets"
             ],
             "styles": [
+
               "src/styles.scss"
             ],
+
+
             "scripts": []
           },
           "configurations": {
@@ -93,12 +96,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "4ddcde3d-372c-4e35-bf82-f2847765e532"
   }
 }
